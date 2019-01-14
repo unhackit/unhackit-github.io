@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 398.698 351.575">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-5, .cls-7, .cls-9 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-7, .cls-9 {
+        stroke: #fff;
+      }
+
+      .cls-1, .cls-7, .cls-9 {
+        stroke-linecap: round;
+      }
+
+      .cls-1, .cls-2, .cls-5 {
+        stroke-width: 6px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #f49b35;
+      }
+
+      .cls-5 {
+        stroke: #ed3237;
+      }
+
+      .cls-6 {
+        fill: #ed3237;
+      }
+
+      .cls-7, .cls-9 {
+        stroke-width: 4px;
+      }
+
+      .cls-7, .cls-8 {
+        opacity: 0.6;
+      }
+    </style>
+  </defs>
+  <g id="illustration_1" data-name="illustration 1" transform="translate(2 1.353)">
+    <path id="Stroke_1" data-name="Stroke 1" class="cls-1" d="M0,16.981c.952-.03,1.919-.045,2.87-.045,2.618,0,5.236.09,7.72.283,12.063.88,21.449,3.878,16.792,8.562-9.147,9.174-4.849,46.422,14,32.384s27.993-32.384,23.145-46.42,32.291-18.9,32.291,4.848-9.148,18.9-14,32.4c-4.834,14.037,4.849,14.037,9.162,18.347,4.834,4.864,18.295,14.037,4.834,46.435-5.533,13.456-.64,24.851,7.838,34.278A96.119,96.119,0,0,0,121,162" transform="translate(90 126)"/>
+    <path id="Stroke_3" data-name="Stroke 3" class="cls-1" d="M98,75.732c-13.93,4.681-32.745,6.958-37.521,4.6C53.018,76.4,53.018,57.683,39.431,57.244c-5.266-.439-11.415,22.644-18.864,26.129C13.116,87.286,9.164,72.052,1.715,60.73s11.4-22.644,18.852-22.644,7.461-18.732,7.461-22.657c0-3.474-1.352-7.895-5.658-15.429" transform="translate(214 63)"/>
+    <path id="Stroke_5" data-name="Stroke 5" class="cls-2" d="M54.021,3.133c7.172,7.049-7.172,10.782-10.969,21.563S24.91,35.479,21.112,31.747,10.143,24.7,2.971,20.964s0-10.782,7.172-7.049S20.269,3.133,28.286,3.133C32.505,3.133,46.849-3.916,54.021,3.133Z" transform="translate(235 198)"/>
+    <path id="Stroke_7" data-name="Stroke 7" class="cls-2" d="M11.843.686C15.62,4.51,18.977,11.733,15.62,15.132c-3.777,3.824-10.91,3.824-14.267,0C-4.1,10.033,8.486-3.138,11.843.686Z" transform="translate(218 250)"/>
+    <path id="Fill_9" data-name="Fill 9" class="cls-3" d="M118.992,238h0A118.883,118.883,0,0,1,21.546,50.788a3.631,3.631,0,0,1,5.827-.132,3.6,3.6,0,0,1,.072,4.319,111.712,111.712,0,0,0,91.567,175.793c1.462,0,2.946-.029,4.411-.085a111.059,111.059,0,0,0,58.832-19.635,112.7,112.7,0,0,0,38.872-46.712,110.635,110.635,0,0,0,9.554-40.912,112.619,112.619,0,0,0-1.82-25.024,110.692,110.692,0,0,0-7.054-23.206,3.624,3.624,0,0,1,6.682-2.806,118.343,118.343,0,0,1,7.488,24.695,119.716,119.716,0,0,1,1.932,26.619,118.227,118.227,0,0,1-20.9,62.649,119.976,119.976,0,0,1-49.741,41.391A117.776,117.776,0,0,1,123.7,237.909C122.135,237.969,120.551,238,118.992,238ZM169.8,19.033h0a3.579,3.579,0,0,1-1.593-.374,111.662,111.662,0,0,0-88.135-4.413,3.622,3.622,0,0,1-2.485-6.8A118.574,118.574,0,0,1,171.43,12.2a3.537,3.537,0,0,1,1.689,1.8,3.651,3.651,0,0,1,.13,2.474A3.589,3.589,0,0,1,169.8,19.033Z" transform="translate(81 54)"/>
+    <path id="Fill_11" data-name="Fill 11" class="cls-4" d="M19.934,0C9.1.035-.036,9.575,0,20.834.034,31.5,17.945,56.233,18.71,57.282a1.734,1.734,0,0,0,2.817-.01C22.28,56.22,40.035,31.375,40,20.7,39.964,9.445,30.776-.035,19.934,0" transform="translate(271 54)"/>
+    <path id="Stroke_13" data-name="Stroke 13" class="cls-2" d="M19.934,0C9.1.035-.036,9.575,0,20.834.034,31.5,17.945,56.233,18.71,57.282a1.734,1.734,0,0,0,2.817-.01C22.28,56.22,40.035,31.375,40,20.7,39.964,9.445,30.776-.035,19.934,0Z" transform="translate(271 54)"/>
+    <path id="Fill_15" data-name="Fill 15" class="cls-4" d="M26.413,0C12.051.046-.047,12.547,0,27.3.046,41.28,23.779,73.686,24.79,75.06a2.314,2.314,0,0,0,3.734-.012c1-1.38,24.522-33.935,24.477-47.92C52.953,12.375,40.779-.046,26.413,0" transform="translate(100 46)"/>
+    <path id="Stroke_17" data-name="Stroke 17" class="cls-5" d="M26.413,0C12.051.046-.047,12.547,0,27.3.046,41.28,23.779,73.686,24.79,75.06a2.314,2.314,0,0,0,3.734-.012c1-1.38,24.522-33.935,24.477-47.92C52.953,12.375,40.779-.046,26.413,0Z" transform="translate(100 46)"/>
+    <path id="Fill_19" data-name="Fill 19" class="cls-4" d="M16.445,0C7.5.029-.029,7.76,0,16.882c.028,8.646,14.8,28.686,15.434,29.536a1.447,1.447,0,0,0,2.325-.007C18.381,45.558,33.028,25.425,33,16.776,32.97,7.653,25.39-.029,16.445,0" transform="translate(110 57)"/>
+    <path id="Stroke_21" data-name="Stroke 21" class="cls-2" d="M16.445,0C7.5.029-.029,7.76,0,16.882c.028,8.646,14.8,28.686,15.434,29.536a1.447,1.447,0,0,0,2.325-.007c.272-.374,3.24-4.453,6.486-9.646C28.4,30.113,33.015,21.633,33,16.776,32.97,7.653,25.39-.029,16.445,0Z" transform="translate(110 57)"/>
+    <path id="Fill_23" data-name="Fill 23" class="cls-6" d="M98,48.5C98,75.285,76.062,97,49,97S0,75.285,0,48.5,21.938,0,49,0,98,21.715,98,48.5" transform="translate(231 164)"/>
+    <path id="Stroke_25" data-name="Stroke 25" class="cls-1" d="M21,21,0,0" transform="translate(311 241)"/>
+    <path id="Fill_27" data-name="Fill 27" class="cls-4" d="M62,31A31,31,0,1,1,31,0,31,31,0,0,1,62,31" transform="translate(249 181)"/>
+    <path id="Stroke_29" data-name="Stroke 29" class="cls-2" d="M62,31A31,31,0,1,1,31,0,31,31,0,0,1,62,31Z" transform="translate(249 181)"/>
+    <path id="Stroke_31" data-name="Stroke 31" class="cls-1" d="M22,22A22,22,0,0,0,0,0" transform="translate(277 194)"/>
+    <path id="Stroke_33" data-name="Stroke 33" class="cls-7" d="M23,11.5A11.5,11.5,0,1,1,11.5,0,11.5,11.5,0,0,1,23,11.5Z" transform="translate(279 302)"/>
+    <g id="Group_39" data-name="Group 39" class="cls-8" transform="translate(46 267)">
+      <path id="Stroke_35" data-name="Stroke 35" class="cls-9" d="M18.548,0,0,18.542" transform="translate(0.273 0.376)"/>
+      <path id="Stroke_37" data-name="Stroke 37" class="cls-9" d="M18.548,18.542,0,0" transform="translate(0.273 0.376)"/>
+    </g>
+    <g id="Group_44" data-name="Group 44" class="cls-8" transform="translate(348)">
+      <path id="Stroke_40" data-name="Stroke 40" class="cls-9" d="M0,0,18.548,18.542" transform="translate(0.83 0.647)"/>
+      <path id="Stroke_42" data-name="Stroke 42" class="cls-9" d="M18.548,0,0,18.542" transform="translate(0.83 0.647)"/>
+    </g>
+    <path id="Stroke_45" data-name="Stroke 45" class="cls-7" d="M17,8.5A8.5,8.5,0,1,1,8.5,0,8.5,8.5,0,0,1,17,8.5Z" transform="translate(0 156)"/>
+    <path id="Stroke_47" data-name="Stroke 47" class="cls-7" d="M16,8A8,8,0,1,1,8,0,8,8,0,0,1,16,8Z" transform="translate(241 1)"/>
+    <g id="Group_53" data-name="Group 53" class="cls-8" transform="translate(376 242)">
+      <path id="Stroke_49" data-name="Stroke 49" class="cls-9" d="M0,0,18.548,18.542" transform="translate(0.15 0.303)"/>
+      <path id="Stroke_51" data-name="Stroke 51" class="cls-9" d="M18.548,0,0,18.542" transform="translate(0.149 0.303)"/>
+    </g>
+    <path id="Stroke_54" data-name="Stroke 54" class="cls-7" d="M19,19,0,13.56,14.262,0Z" transform="translate(36 26)"/>
+    <path id="Stroke_56" data-name="Stroke 56" class="cls-7" d="M19,19,0,13.56,14.262,0Z" transform="translate(367 137)"/>
+    <path id="Stroke_58" data-name="Stroke 58" class="cls-7" d="M0,18,8.866,0,20,16.689Z" transform="translate(143 330)"/>
+  </g>
+</svg>

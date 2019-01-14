@@ -1,0 +1,7 @@
+nav ul .item:hover a{
+	background: #ef4040!important;
+}
+.fix-style-checkbox{
+	position: relative;
+	bottom: 6px;
+}
